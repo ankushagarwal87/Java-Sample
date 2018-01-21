@@ -1,0 +1,14 @@
+<web-app>
+<servlet>
+<servlet-name>config</servlet-name>
+<jsp-file>config.jsp</jsp-file>
+<init-param>
+<param-name>name</param-name>
+<param-value>ilu-ilu</param-value>
+</init-param>
+</servlet>
+<servlet-mapping>
+<servlet-name>config</servlet-name>
+<url-pattern>sonu</url-pattern>
+</servlet-mapping>
+</web-app>
