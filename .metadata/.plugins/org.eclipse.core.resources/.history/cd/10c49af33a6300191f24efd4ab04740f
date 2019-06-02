@@ -1,0 +1,15 @@
+package org.ankush.webservice;
+
+public class IPLocationFinder {
+
+	public static void main(String[] args) {
+		if(args.length != 1){
+			System.out.println("error");
+		}
+		else{
+			String ipAddress = args[0];
+			stub.get
+		}
+	}
+
+}

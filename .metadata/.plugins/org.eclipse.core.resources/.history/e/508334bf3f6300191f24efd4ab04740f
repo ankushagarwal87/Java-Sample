@@ -1,0 +1,5 @@
+package org.ankush.webservice;
+
+public class ProductCatalog {
+
+}
